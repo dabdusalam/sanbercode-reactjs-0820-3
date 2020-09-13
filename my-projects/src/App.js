@@ -1,26 +1,17 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import index from './Tugas2/index.js';
+import DaftarBuah from './Tugas-13/DaftarBuah';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <index/>
+   
   );
 }
 
-export default App;
+export default index;
+
+/* <DaftarBuah/>*/
