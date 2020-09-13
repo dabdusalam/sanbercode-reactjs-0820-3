@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import index from './Tugas2/index.js';
-import DaftarBuah from './Tugas-13/DaftarBuah';
+import about from './Tugas2/about.js';
 
 
 function App() {

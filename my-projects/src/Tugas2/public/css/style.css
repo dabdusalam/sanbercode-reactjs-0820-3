@@ -35,6 +35,7 @@ section {
     top: 70px;
     padding: 20px;
     margin-bottom: 100px;
+    float: left;
 }
 
 h1 {
@@ -63,3 +64,13 @@ footer {
     align-items: center;
 }
 
+.nilai{
+    float: right;
+    padding-top: 40px;
+    padding-right:540px;
+}
+.nilai li{
+    list-style: none;
+    padding-bottom: 10px;
+
+}
